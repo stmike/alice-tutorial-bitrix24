@@ -10,6 +10,7 @@
 ## Установка
 * Склонируйте или скачайте и распакуйте репо на локальный диск
 * Установите необходимые зависимости: `npm i`
+* Действуйте согласно инструкции, описаннрой здесь: https://habr.com/ru/post/464739/
 
 ## Лицензия
 [![GitHub license](https://img.shields.io/github/license/stmike/alice-tutorial-bitrix24)](https://github.com/stmike/alice-tutorial-bitrix24/blob/master/LICENSE)
