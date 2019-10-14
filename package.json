@@ -17,5 +17,5 @@
     "eslint": "^6.5.1",
     "eslint-plugin-promise": "^4.2.1"
   },
-  "description": "A demo app that send leads from Yandex Alice bot to Bitrix24 CRM."
+  "description": "A demo web application that sends leads from Yandex Alice bot to Bitrix24 CRM."
 }
